@@ -1,4 +1,3 @@
-image: ubuntu:latest
 arch: arm
 tasks:
   - name: Saml configure and login
